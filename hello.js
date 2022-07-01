@@ -1,4 +1,2 @@
-console.log("Olá, Mundo!");
-console.log("Mais uma linha de código");
-console.log("outra linha de código!");
-
+let minhaIdade = 33;
+console.log(minhaIdade);
